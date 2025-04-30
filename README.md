@@ -11,6 +11,7 @@ Guns  &  Roses  is  a  prominent  Australian  wine  distributor,  known  for pro
 **Problem Statement**
 
 The current reporting system at Guns & Roses is inadequate for providing real-time insights into key business metrics, leading to delays in decision-making. The firm struggles with disjointed data, with limited visibility into sales trends, operational performance, and freight logistics. Additionally, securing sensitive customer data across different regions while ensuring high performance is a significant challenge.The company aims to implement a robust reporting solution that provides:
+
 ●Real-time visibility into sales, and customer behavior.
 ●A user-friendly, dashboard for executive decision-making.
 
